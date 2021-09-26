@@ -11,6 +11,8 @@ const doubledNumbers = numbers.map( num => num * 2 )
 
 // console.log( doubledNumbers )
 
+// Teste monica
+
 /* Fahrenheit para Celsius
    ========================================================================== */
 
